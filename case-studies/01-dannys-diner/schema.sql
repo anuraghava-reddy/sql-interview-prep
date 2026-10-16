@@ -1,0 +1,1 @@
+-- CREATE TABLE + INSERT scripts (converted to T-SQL)
