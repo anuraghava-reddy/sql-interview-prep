@@ -49,3 +49,6 @@ WHERE ID % 2 = 0;
 
 ## Gotchas
 - 🚩 `MOD()` doesn't exist in T-SQL. Use `%`.
+- 🚩 Don't mix dialects. T-SQL: `LEN()` + `TOP 1` after `SELECT`. MySQL: `LENGTH()` + `LIMIT 1` at the end.
+- 🚩 Aggregates (`MIN`, `MAX`, `COUNT`…) can't go in `WHERE`. Use a subquery, `HAVING`, or `ORDER BY … TOP 1`.
+- 🚩 Tie-break on the first row: `ORDER BY <metric>, <name>`.
