@@ -19,11 +19,11 @@ The goal is to go beyond getting the right answer and build a clear, repeatable 
 |---|---|
 | `problems/` | Daily drill solutions (HackerRank, LeetCode, etc.), grouped by topic |
 | `case-studies/` | End-to-end case studies with schema, cleaning, solutions and insights |
-| `mock-interviews/` | Timed mock interview attempts |
+| `mock-interviews/` | Timed mock interview attempts |⛳
 | `mistakes.md` | Every problem I got wrong, and why |
-| `cheatsheet.md` | My own syntax notes, patterns and gotchas |
+| `cheatsheet.md` | My own syntax notes, patterns and gotchas |⛳
 
-## Progress
+## Progress ⛳
 | Topic | Solved | Target | Status |
 |---|---|---|---|
 | 01 Select & filtering | 2 | 10 | 🟡 |
@@ -42,18 +42,18 @@ The goal is to go beyond getting the right answer and build a clear, repeatable 
 | 02 | [Pizza Runner](case-studies/02-pizza-runner/) | ⚪ | — |
 | 03 | [Foodie-Fi](case-studies/03-foodie-fi/) | ⚪ | — |
 
-## Mock interviews
+## Mock interviews ⛳
 | Date | File | Score / time | Takeaway |
 |---|---|---|---|
 | 2026-10-25 | [mock-01](mock-interviews/mock-01_2026-10-25.sql) | — | — |
 | 2026-10-29 | [mock-02](mock-interviews/mock-02_2026-10-29.sql) | — | — |
 
-## Daily log
+## Daily log ⛳
 | Day | Date | Focus | Problems | Notes |
 |---|---|---|---|---|
 | 1 | 2026-10-16 | Select & filtering | 2 | |
 
-## Related portfolio projects
+## Related portfolio projects ⛳
 - SQL data warehouse project (SQL Server, ERP + CRM sources)
 - SQL data analytics project (gold layer: fact_sales, dim_customers, dim_products)
 
