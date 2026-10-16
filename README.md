@@ -1,6 +1,18 @@
-# SQL Interview Prep
+# 📖# SQL Practice & Interview Preparation
 
-Data analyst SQL interview problems solved in **SQL Server (T-SQL)**, with the approach and edge cases for each.
+A hands-on repository for building strong SQL skills for data analytics and technical interviews.
+
+## What's inside
+
+- **Problem solving by topic**: practice problems grouped by SQL concept (joins, subqueries, CTEs, window functions, aggregations, date functions, string manipulation, and more), from fundamentals to advanced.
+- **Real-world analytics use cases**: end-to-end analysis on public datasets, turning business questions into queries and queries into insights.
+- **Documented approaches**: each solution explains the thinking behind it: how the problem was broken down, why a given approach was chosen, and alternative solutions where relevant.
+- **Custom cheat sheets**: personal quick-reference notes on syntax, functions, and common gotchas.
+- **Reusable query patterns**: recurring patterns such as top-N per group, running totals, deduplication, gaps and islands, and year-over-year comparisons.
+
+## Why this repo
+
+The goal is to go beyond getting the right answer and build a clear, repeatable way of thinking through data problems. It works as both a learning log and a reference for interviews and day-to-day analysis.
 
 ## Structure
 | Folder | What's in it |
@@ -46,3 +58,13 @@ Data analyst SQL interview problems solved in **SQL Server (T-SQL)**, with the a
 - SQL data analytics project (gold layer: fact_sales, dim_customers, dim_products)
 
 🟢 done · 🟡 in progress · ⚪ not started
+
+## 👋 About Me
+
+Hi there! I'm **Anuraghava Reddy A**. I'm a former Senior Manager with ~7 years of experience in civil engineering and construction management, where I led resource planning and operations across multiple projects. I'm now moving into **data analytics and data engineering**, building hands-on projects that turn raw data into clear business decisions.
+
+- 💼 LinkedIn: www.linkedin.com/in/anuraghava-reddy-anugula-023605159
+- 🐙 GitHub: anuraghava-reddy
+- 📧 Email: aanuraghavareddy123@gmail.com
+
+⭐ If you found this project useful, feel free to star the repo!
