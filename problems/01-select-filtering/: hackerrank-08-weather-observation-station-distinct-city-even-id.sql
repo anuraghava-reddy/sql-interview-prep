@@ -1,6 +1,6 @@
 /*
   Source     : HackerRank
-  Problem    : Weather Observation Station 3
+  Problem    : Query a list of CITY names from STATION for cities with an even ID number. Print in any order, but exclude duplicates.
   Link       : https://www.hackerrank.com/challenges/weather-observation-station-3/problem
   Difficulty : Easy
   Topic      : Basic Select
