@@ -1,7 +1,6 @@
 # SQL Interview Prep
 
-A 15-day, 3 hrs/day sprint to get interview-ready for data analyst roles.
-Dialect: **SQL Server (T-SQL)** unless noted in a file header.
+Data analyst SQL interview problems solved in **SQL Server (T-SQL)**, with the approach and edge cases for each.
 
 ## Structure
 | Folder | What's in it |
