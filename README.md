@@ -23,6 +23,13 @@ The goal is to go beyond getting the right answer and build a clear, repeatable 
 | `mistakes.md` | Every problem I got wrong, and why |
 | `cheatsheet.md` | My own syntax notes, patterns and gotchas |⛳
 
+## Dialects
+| Source | Dialect |
+|---|---|
+| HackerRank | MySQL |
+| LeetCode | |
+| 8 Week SQL Challenge | |
+
 ## Progress ⛳
 | Topic | Solved | Target | Status |
 |---|---|---|---|
@@ -63,7 +70,7 @@ The goal is to go beyond getting the right answer and build a clear, repeatable 
 
 Hi there! I'm **Anuraghava Reddy A**. I'm a former Senior Manager with ~7 years of experience in civil engineering and construction management, where I led resource planning and operations across multiple projects. I'm now moving into **data analytics and data engineering**, building hands-on projects that turn raw data into clear business decisions.
 
-- 💼 LinkedIn: www.linkedin.com/in/anuraghava-reddy-anugula-023605159
+- 💼 LinkedIn: [www.linkedin.com/in/anuraghava-reddy-anugula-023605159](https://www.linkedin.com/in/anuraghava-reddy-anugula-023605159)
 - 🐙 GitHub: anuraghava-reddy
 - 📧 Email: aanuraghavareddy123@gmail.com
 
