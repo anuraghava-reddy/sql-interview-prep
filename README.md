@@ -8,6 +8,7 @@ A hands-on repository for building strong SQL skills for data analytics and tech
 - **Real-world analytics use cases**: end-to-end analysis on public datasets, turning business questions into queries and queries into insights.
 - **Documented approaches**: each solution explains the thinking behind it: how the problem was broken down, why a given approach was chosen, and alternative solutions where relevant.
 - **Custom cheat sheets**: personal quick-reference notes on syntax, functions, and common gotchas.
+- **SQL dialects comparison**: a side-by-side reference of SQL Server, MySQL, PostgreSQL, Oracle and SQLite, with example queries for each. See [sql-dialects-comparison.md](sql-dialects-comparison.md).
 - **Reusable query patterns**: recurring patterns such as top-N per group, running totals, deduplication, gaps and islands, and year-over-year comparisons.
 
 ## Why this repo
@@ -22,6 +23,7 @@ The goal is to go beyond getting the right answer and build a clear, repeatable 
 | `mock-interviews/` | Timed mock interview attempts |⛳
 | `mistakes.md` | Every problem I got wrong, and why |
 | `cheatsheet.md` | My own syntax notes, patterns and gotchas |⛳
+| `sql-dialects-comparison.md` | How SQL Server, MySQL, PostgreSQL, Oracle and SQLite differ, with examples |
 
 ## Dialects
 | Source | Dialect |
@@ -29,6 +31,13 @@ The goal is to go beyond getting the right answer and build a clear, repeatable 
 | HackerRank | MySQL |
 | LeetCode | |
 | 8 Week SQL Challenge | |
+
+Different platforms run different SQL dialects, so the same query can behave differently on each, for example with integer division, `DATEDIFF` argument order, or `CONCAT` and NULLs. Before switching platforms, check the [SQL Dialects Comparison](sql-dialects-comparison.md). Useful sections:
+
+- [Similarities: what works everywhere](sql-dialects-comparison.md#2-similarities-what-works-everywhere)
+- [Date and time functions](sql-dialects-comparison.md#6-date-and-time-functions)
+- [Common traps](sql-dialects-comparison.md#13-common-traps)
+- [Portable SQL checklist](sql-dialects-comparison.md#14-portable-sql-checklist)
 
 ## Progress ⛳
 | Topic | Solved | Target | Status |
